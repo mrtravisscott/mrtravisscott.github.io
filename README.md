@@ -4,8 +4,9 @@
 
 ### Contact Me
 
-#### Email Address: travis.r.scott90@gmail.com
-#### Phone Number: (206)902-0860
+Email Address: travis.r.scott90@gmail.com
+
+Phone Number: (206)902-0860
 
 Linkin: [Linkin Link](https://www.linkedin.com/in/travisrscott/ "LinkedIn")
 GitHub: [Github Link](https://github.com/mrtravisscott/ "Github")
