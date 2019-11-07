@@ -4,6 +4,7 @@
 
 ### Contact Me
 ```markdown
+<a src='https://www.linkedin.com/in/travisrscott/'> WHAT</a>
 [I'm an inline-style link](https://www.google.com)
 Email Address: travis.r.scott90@gmail.com
 Phone Number: (206)902-0860
