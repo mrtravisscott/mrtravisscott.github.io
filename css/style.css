@@ -26,7 +26,7 @@ a {
 }
 a:hover, a:focus {
     text-decoration: none;
-    color: #BC0711;
+    color: #158f07;
 }
 .btn {
     border: 0;
@@ -42,9 +42,9 @@ a:hover, a:focus {
     transition: all .5s;
 }
 .btn-custom:hover {
-    color: #BC0711;
+    color: #158f07;
     background-color: #fff;
-    border-color: #BC0711;
+    border-color: #158f07;
 }
 .btn-lg {
     padding: 10px 15px;
