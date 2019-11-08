@@ -339,6 +339,7 @@ background-size: cover;
     text-align: center;
     text-transform: uppercase;
     text-shadow: 1px 1px 1px #424242;
+    background-image: linear-gradient(to right, blue , green);
 }
 
 
